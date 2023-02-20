@@ -2,7 +2,7 @@
 // +build go1.20
 
 // SPDX-License-Identifier: MIT
-package strbytes
+package str2bytes
 
 import (
 	"unsafe"
