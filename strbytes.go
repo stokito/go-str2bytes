@@ -1,4 +1,8 @@
+//go:build !go1.20
+// +build !go1.20
+
 // SPDX-License-Identifier: MIT
+//
 package strbytes
 
 import (
